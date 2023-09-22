@@ -1,7 +1,5 @@
-### Hi there 👋
 
-
-<h2 align="left">Hi 👋! My name is Tanishka and I'm a Web Developer, from Bangalore.</h2>
+<h1 align="left">Hi 👋! My name is Tanishka and I'm a Web Developer, from Bangalore.</h1>
 
 ###
 
