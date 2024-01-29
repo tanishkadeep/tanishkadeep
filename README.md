@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanishka</h1>
 <h3 align="center">A passionate Web Developer, from Bangalore.</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **tanishkadeep09@gmail.com**
 
