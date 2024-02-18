@@ -1,5 +1,5 @@
 <h3 align="center">I'm a Full Stack Developer, from Bangalore.</h3>
-- 🌱 I’m currently learning **MERN Stack and Machine Learning**
+- 🌱 I’m currently learning MERN Stack and Machine Learning
 
 - 📫 How to reach me **tanishkadeep09@gmail.com**
 
