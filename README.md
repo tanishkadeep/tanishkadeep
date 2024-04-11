@@ -1,13 +1,13 @@
 <h1 align="center">Hey! 👋 I am Tanishka Deep </h1>
-<h2 align="center">A MERN Stack Developer, from Bangalore.</h2>
+<h2 align="center">A Full Stack Developer and ML Enthusiast, from Bangalore.</h2>
 
 <br>
 
-- 🌱 I’m currently learning MERN Stack and Machine Learning
+- 🌱 I’m currently learning MERN Stack and Deep Learning
   <br>
   <br>
 
-[![](https://visitcount.itsvg.in/api?id=tanishkadeep&icon=5&color=3)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=tanishkadeep)
 
 ## 🌐 Socials:
 
