@@ -3,7 +3,7 @@
 
 <br>
 
-- 🌱 I’m currently learning MERN Stack and Deep Learning
+- 🌱 I’m currently learning Full Stack Web Development and Deep Learning
   <br>
   <br>
 
