@@ -3,7 +3,11 @@
 
 <br>
 
-- 🌱 I’m currently learning Next.js and GANs
+- 🔭 I’m currently working on **Bytes - a blogging web app**
+
+- 🌱 I’m currently learning **Next.js and Deep Learning**
+
+- 💬 Ask me about **full stack development and machine learning**
   <br>
   <br>
 
