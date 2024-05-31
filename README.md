@@ -3,9 +3,7 @@
 
 <br>
 
-- 🔭 I’m currently working on **Bytes - a blogging web app**
-
-- 🌱 I’m currently learning **Next.js and Deep Learning**
+- 🌱 I’m currently learning **Next.js and Neural Nets**
 
 - 💬 Ask me about **full stack development and machine learning**
   <br>
