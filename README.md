@@ -1,12 +1,6 @@
 <h1 align="center">Hey! 👋 I am Tanishka Deep </h1>
 <h2 align="center">A Full Stack Developer and ML Enthusiast, from Bangalore.</h2>
 
-<br>
-
-- 🌱 I’m currently learning **Next.js and Neural Nets**
-
-- 💬 Ask me about **full stack development and machine learning**
-  <br>
   <br>
 
 ![](https://komarev.com/ghpvc/?username=tanishkadeep)
