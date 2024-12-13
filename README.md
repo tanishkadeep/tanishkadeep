@@ -3,6 +3,14 @@
 
   <br>
 
+  I am a skilled full-stack developer based in Bangalore, India, with a strong foundation in artificial intelligence and machine learning, pursuing a B.E. at Ramaiah Institute of Technology with a CGPA of 9.5/10. Proficient in React, Next.js, TypeScript, Python, and Node.js, I excel at building modern, scalable, and user-friendly web applications.
+
+My portfolio includes innovative projects like Regal Estate, a real estate platform, and Bytes, a Medium-inspired blogging app. At Larsen & Toubro Defence, I gained valuable experience in synthetic data generation, real-time optimization, and advanced denoising techniques for predictive maintenance.
+
+Committed to continuous learning and innovation, I bring technical expertise, problem-solving skills, and a passion for innovation to every project I undertake.
+
+<br>
+
 ![](https://komarev.com/ghpvc/?username=tanishkadeep)
 
 ## 🌐 Socials:
